@@ -1,0 +1,240 @@
+{
+  "sprites": [
+    {
+      "characterId": "丰川祥子",
+      "expression": "傲娇",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_傲娇.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "关心",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_关心.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "喜欢",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_喜欢.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "嘲讽",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_嘲讽.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "大笑",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_大笑.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "害怕",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_害怕.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "害羞",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_害羞.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "微笑",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_微笑.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "思考",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_思考.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "惊讶",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_惊讶.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "生气",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_生气.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "睡觉",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_睡觉.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "自信",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_自信.png"
+    },
+    {
+      "characterId": "丰川祥子",
+      "expression": "难过",
+      "url": "https://github.com/bolichunhu-bit/1/sprites/丰川祥子_难过.png"
+    }
+  ],
+  "backgrounds": [
+    {
+      "sceneName": "livehouse现场",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/livehouse现场.png"
+    },
+    {
+      "sceneName": "候机室",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/候机室.png"
+    },
+    {
+      "sceneName": "夜晚公园",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚公园.png"
+    },
+    {
+      "sceneName": "夜晚卧室",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚卧室.png"
+    },
+    {
+      "sceneName": "夜晚商业街",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚商业街.png"
+    },
+    {
+      "sceneName": "夜晚学校天台",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚学校天台.png"
+    },
+    {
+      "sceneName": "夜晚客厅",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚客厅.png"
+    },
+    {
+      "sceneName": "夜晚教室",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚教室.png"
+    },
+    {
+      "sceneName": "夜晚游乐园",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚游乐园.png"
+    },
+    {
+      "sceneName": "夜晚街道",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/夜晚街道.png"
+    },
+    {
+      "sceneName": "家的玄关",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/家的玄关.jpeg"
+    },
+    {
+      "sceneName": "机场全貌",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/机场全貌.jpeg"
+    },
+    {
+      "sceneName": "机场内",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/机场内.png"
+    },
+    {
+      "sceneName": "水族馆",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/水族馆.png"
+    },
+    {
+      "sceneName": "水族馆舞台",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/水族馆舞台.png"
+    },
+    {
+      "sceneName": "清晨卧室",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/清晨卧室.png"
+    },
+    {
+      "sceneName": "清晨街道",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/清晨街道.png"
+    },
+    {
+      "sceneName": "白天公园",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天公园.png"
+    },
+    {
+      "sceneName": "白天卧室",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天卧室.jpeg"
+    },
+    {
+      "sceneName": "白天商业街",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天商业街.png"
+    },
+    {
+      "sceneName": "白天学校天台",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天学校天台.png"
+    },
+    {
+      "sceneName": "白天客厅",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天客厅.png"
+    },
+    {
+      "sceneName": "白天摩天轮内部",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天摩天轮内部.png"
+    },
+    {
+      "sceneName": "白天教室",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天教室.png"
+    },
+    {
+      "sceneName": "白天海边街道",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天海边街道.png"
+    },
+    {
+      "sceneName": "白天游乐园",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天游乐园.png"
+    },
+    {
+      "sceneName": "白天街道",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天街道.png"
+    },
+    {
+      "sceneName": "白天车后座",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天车后座.jpeg"
+    },
+    {
+      "sceneName": "白天车站",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/白天车站.png"
+    },
+    {
+      "sceneName": "雨天公园",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/雨天公园.png"
+    },
+    {
+      "sceneName": "雨天客厅",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/雨天客厅.png"
+    },
+    {
+      "sceneName": "雨天街道",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/雨天街道.png"
+    },
+    {
+      "sceneName": "黄昏公园",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏公园.png"
+    },
+    {
+      "sceneName": "黄昏商业街",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏商业街.png"
+    },
+    {
+      "sceneName": "黄昏学校天台",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏学校天台.png"
+    },
+    {
+      "sceneName": "黄昏客厅",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏客厅.png"
+    },
+    {
+      "sceneName": "黄昏摩天轮内部",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏摩天轮内部.png"
+    },
+    {
+      "sceneName": "黄昏教室",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏教室.png"
+    },
+    {
+      "sceneName": "黄昏游乐园",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏游乐园.png"
+    },
+    {
+      "sceneName": "黄昏街道",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏街道.png"
+    },
+    {
+      "sceneName": "黄昏车站",
+      "url": "https://github.com/bolichunhu-bit/1/backgrounds/黄昏车站.png"
+    }
+  ]
+}
